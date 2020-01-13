@@ -1,7 +1,7 @@
 #include <iostream>
 using namespace std;
-/* run this program using the console pauser or add your own getch, system("pause") or input loop */
 
+// this program creates number pattern
 int main() {
 	int n,k=1;
 	cout<<"Enter Number of Rows :";
